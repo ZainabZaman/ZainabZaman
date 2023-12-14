@@ -1,12 +1,13 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+As a devoted and motivated data scientist with a strong affinity for image processing, I am committed to advancing in knowledge & career in this multidisciplinary domain. My grounding in a wide array of machine learning techniques, in conjunction with expertise in data analysis forms the basis of my research & career endeavors. My work has been characterized by an unwavering dedication to explore the potential of visual data, especially in the multispectral & hyperspectral domain. I am motivated to address challenges at the intersection of data science and image processing, navigate intricate datasets, develop sophisticated algorithms, and effectively communicate findings. I am eager to collaborate with likeminded peers and engage in high-impact development that not only advances our collective understanding but also transforms our capacity to harness the power of data and images for the betterment of society.
 
 <!--
 **ZainabZaman/ZainabZaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭  I am a dedicated Data Scientist and a Masters in Data Science from NUST university, currently immersed in cutting-edge projects at the intersection of data science, image processing and natural langiage processing. I have hands-on experience in ML & DL models, computer vision, and Python programming. My expertise spans generative AI, ETL, and EDA, and I am currently working as an AI developer. With a keen focus on multispectral and hyperspectral domains, I am committed to transforming challenges into opportunities and contributing meaningfully to the dynamic landscape of data science and artificial intelligence.
+- 🌱 I'm always looking to learn and grow. Right now, I'm exploring new aspects of machine learning to boost my skills. This learning journey is helping me get better at data analysis, laying a strong foundation for my research and career goals.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
